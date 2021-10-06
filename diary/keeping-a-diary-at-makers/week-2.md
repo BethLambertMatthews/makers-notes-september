@@ -1,8 +1,12 @@
+---
+description: 'Coach this week: Roi Driscoll'
+---
+
 # Week 2 \(Mon 13 - Fri 17 Sept\)
 
 ## Monday 13 September
 
-Intro to Makers: Eddie
+Coach this week: Roi Driscoll
 
 ## Tuesday 14 September
 
