@@ -10,7 +10,7 @@ Coach this week: Roi Driscoll
 
 ### Week 5: The Web
 
-[https://github.com/makersacademy/course/blob/main/apprenticeship_module_outlines.md#week-5-the-web](https://github.com/makersacademy/course/blob/main/apprenticeship_module_outlines.md#week-5-the-web)
+[https://github.com/makersacademy/course/blob/main/apprenticeship\_module\_outlines.md#week-5-the-web](https://github.com/makersacademy/course/blob/main/apprenticeship\_module\_outlines.md#week-5-the-web)
 
 9.30: Peer group
 
@@ -18,7 +18,7 @@ Coach this week: Roi Driscoll
 
 11.00: Kick off, the web (Roi)
 
-14.00: Pairing (Amin) 
+14.00: Pairing (Amin)&#x20;
 
 ## Tuesday 5 October
 
@@ -51,3 +51,9 @@ Diary work
 ## Friday 8 October
 
 Individual challenge this week?
+
+## Reflections on Week 5
+
+Hectic
+
+Felt quite frustrated!
